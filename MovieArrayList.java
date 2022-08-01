@@ -4,7 +4,7 @@
  * @author Celia Chen
  */
 public class MovieArrayList {
-
+	// changes
 	private Movie[] movies;
 	private int size;
 
